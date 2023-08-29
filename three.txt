@@ -1,0 +1,4 @@
+Hello, I'm practicing linux commands with Gitbash terminal
+Huhuh I'm finally learning
+But I need to Practice more So that I can remember these commands
+Otherwise I'll definitely forget
